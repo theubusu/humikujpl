@@ -1,0 +1,27 @@
+html, body {
+    background-color: #cbe139;
+    font-family: 'Trebuchet MS',Verdana,Tahoma,Sans-Serif;
+    color: #ffffff
+}
+
+h1, h2 {
+    -webkit-text-stroke: 0.7px black; /* width and color */
+}
+
+p {
+    color: black;
+}
+
+.przycisk{
+    border: 1px solid #89a224;
+    background-image: url(data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxMDAlIiBoZWlnaHQ9IjEwMCUiIHZpZXdCb3g9IjAgMCAxIDEiIHByZXNlcnZlQXNwZWN0UmF0aW89Im5vbmUiPgo8bGluZWFyR3JhZGllbnQgaWQ9ImcxMDQiIGdyYWRpZW50VW5pdHM9InVzZXJTcGFjZU9uVXNlIiB4MT0iMCUiIHkxPSIwJSIgeDI9IjAlIiB5Mj0iMTAwJSI+CjxzdG9wIHN0b3AtY29sb3I9IiNDNUUyMzQiIG9mZnNldD0iMCIvPjxzdG9wIHN0b3AtY29sb3I9IiM3RTk4MEMiIG9mZnNldD0iMSIvPgo8L2xpbmVhckdyYWRpZW50Pgo8cmVjdCB4PSIwIiB5PSIwIiB3aWR0aD0iMSIgaGVpZ2h0PSIxIiBmaWxsPSJ1cmwoI2cxMDQpIiAvPgo8L3N2Zz4=);
+    border-radius: 5px;
+    color: white;
+    text-decoration: none; 
+    box-shadow: 0 0 3px 0 #899926;
+    letter-spacing: -1px;
+    text-shadow: -1px 0 2px #424e12,0 1px 2px #424e12, 1px 0 1px #424e12, 0 -1px 1px #424e12;
+    font-size: 18px;
+    font-weight: bold;
+    padding: 2px 14px;
+}
